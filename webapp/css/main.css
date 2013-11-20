@@ -60,7 +60,7 @@ body {
 .accordion h2 a {
 	display: block;
 	position: relative;
-	font: 14px/1 'Trebuchet MS', 'Lucida Sans';
+	font-size: 0.7em;
 	padding: 10px;
 	color: #333;
 	text-decoration: none;
