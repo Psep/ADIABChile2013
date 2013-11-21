@@ -1,7 +1,7 @@
 {
     "version": "1.0",
     "name": "ADIABChile",
-    "launch_path": "/index.html",
+    "launch_path": "/ADIABChile2013/webapp/index.html",
     "description": "Información sobre el Firefox OS Apps Days en Chile",
     "developer": {
         "name": "Pablo Sepulveda",
@@ -14,12 +14,12 @@
     	}
   	},
     "icons": {
-        "128": "/img/appsday128.png",
-        "64": "/img/appsday64.png",
-        "60": "/img/appsday60.png",
-        "48": "/img/appsday48.png",
-        "32": "/img/appsday32.png",
-        "16": "/img/appsday16.png"
+        "128": "/ADIABChile2013/webapp/img/appsday128.png",
+        "64": "/ADIABChile2013/webapp/img/appsday64.png",
+        "60": "/ADIABChile2013/webapp/img/appsday60.png",
+        "48": "/ADIABChile2013/webapp/img/appsday48.png",
+        "32": "/ADIABChile2013/webapp/img/appsday32.png",
+        "16": "/ADIABChile2013/webapp/img/appsday16.png"
     },
     "default_locale": "es"
 }
