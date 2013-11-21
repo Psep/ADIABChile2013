@@ -1,0 +1,64 @@
+@import url('font-droid.css');
+
+* {
+	font-family: 'Droid Sans', serif;
+	margin: 0;
+}
+
+body, html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #eee;
+	/*font-family: Arial, Helvetica, Verdana;*/
+	font-size: 14px;
+	color: #333;
+	-webkit-text-size-adjust: none;
+}
+
+#logo {
+	text-align: center;
+}
+
+dl {
+	margin: 20px auto;
+	width: 70%;
+}
+
+dt, dd {
+	padding: 20px;
+}
+
+dt {
+	background: #1B4274;
+	color: white;
+	border-bottom: 1px solid #141414;
+	border-top: 1px solid #FFFFFF;
+	cursor: pointer;
+}
+
+dd {
+	background: #F5F5F5;
+	display: none;
+	font-size: 0.9em;
+}
+
+dt.activo, dt:hover {
+	background: #1154A0;
+}
+
+dt:before {
+	content: "▸";
+	margin-right: 10px;
+}
+
+dt.activo:before {
+	content: "▾";
+}
+
+footer {
+	text-align: center;
+	font-size: 0.7em;
+}
