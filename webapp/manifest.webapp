@@ -1,0 +1,25 @@
+{
+    "version": "1.0",
+    "name": "ADIABChile",
+    "launch_path": "/index.html",
+    "description": "Información sobre el Firefox OS Apps Days en Chile",
+    "developer": {
+        "name": "Pablo Sepulveda",
+        "url": "http://www.psep.cl"
+    },
+    "locales": {
+    	"es": {
+     		"name": "ADIABChile",
+      		"description": "Información sobre el Firefox OS Apps Days en Chile"
+    	}
+  	},
+    "icons": {
+        "128": "/img/appsday128.png",
+        "64": "/img/appsday64.png",
+        "60": "/img/appsday60.png",
+        "48": "/img/appsday48.png",
+        "32": "/img/appsday32.png",
+        "16": "/img/appsday16.png"
+    },
+    "default_locale": "es"
+}
